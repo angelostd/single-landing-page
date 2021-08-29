@@ -30,8 +30,8 @@ Desktop
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/any-comment-is-always-welcome-_tdAcwZoN
-- Live Site URL: https://angelostd.github.io/stats-preview/
+- Solution URL: https://www.frontendmentor.io/solutions/only-html-and-css-20-mMfsW2qBm
+- Live Site URL: https://angelostd.github.io/single-landing-page/
 
 ## My process
 
@@ -46,7 +46,7 @@ Desktop
 
 ### What I learned
 
-Media queries, and the useful 'background-blend-mode' to recreate to photo effect.
+'position: relative;' utilities SO FAR
 
 ### Continued development
 
